@@ -3,4 +3,4 @@
 - [x] Task 2 : Tic-Tac-Toe AI
 - [ ] Task 3 : Image Captioning
 - [ ] Task 4 : Recommendation System
-- [ ] Task 5 : Face Detection and Recognition
+- [x] Task 5 : Face Detection and Recognition
